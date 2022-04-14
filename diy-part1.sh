@@ -20,4 +20,3 @@ echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >>feeds.conf.de
 echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
 echo 'src-git luci-theme-edge https://github.com/kiddin9/luci-theme-edge.git' >>feeds.conf.default
 echo 'src-git serverchan https://github.com/tty228/luci-app-serverchan.git' >>feeds.conf.default
-echo 'src-git theme-edge https://github.com/garypang13/luci-theme-edg' >>feeds.conf.default
